@@ -1,6 +1,6 @@
 # Airbank payments API
 
-This is a simple Node.js application that demonstrates how to use the Airbank payments API. It sends a payment order from one account to another and notifies you via email if anything goes wrong.
+This is a simple Node.js application that uses Airbank payments API to send a payment. It sends a payment order from one account to another and notifies you via email if anything goes wrong.
 
 ## Prerequisites
 
