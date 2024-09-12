@@ -7,7 +7,7 @@ This is a simple Node.js application that demonstrates how to use the Airbank pa
 Before running the application, you need to have the following:
 
 - A valid Airbank API client ID and secret
-- A valid Airbank access token
+- A valid Gmail mail app password
 
 ## Configuration
 
@@ -18,7 +18,7 @@ CLIENT_ID=your_client_id
 CLIENT_SECRET=your_client_secret
 REFRESH_TOKEN=your_refresh_token
 EMAIL_FROM=your_email_address
-EMAIL_PASSWORD=your_email_password
+EMAIL_PASSWORD=your_gmail_app_password
 ```
 
 Replace `your_client_id`, `your_client_secret`, `your_refresh_token`, `your_email_address`, and `your_email_password` with your actual values.
